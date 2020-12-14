@@ -1,3 +1,6 @@
 # CourseProject
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+The training file is train.py, the classification file is classify.py, and the output file is answer.txt.
+The link to video demo is in VideoLink.txt.
+
+Thank you.
